@@ -7,6 +7,6 @@ target 'ESPProvision' do
 
   # Pods for ESPProvision
   pod 'SwiftProtobuf', '~> 1.0'
-  pod 'Curve25519', '~> 1.1.0'
+  pod 'Curve25519', '~> 2.0.0'
 
 end
